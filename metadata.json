@@ -1,0 +1,6 @@
+{
+  "name": "PitchCraft B2B - Cold Email & Outreach Generator",
+  "description": "Generate high-converting B2B cold emails and outreach pitches across Short & Direct, Value-First, and Problem-Solution frameworks in natural British English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
